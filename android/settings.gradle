@@ -1,0 +1,3 @@
+rootProject.name = 'gwauto_mobile_1464'
+
+include ':app'
